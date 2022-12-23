@@ -1,13 +1,11 @@
 # Ushan Dissanayake
 
-A collection of my projects...
+A collection of my projects!
 
 ---
 ![example_output](https://i.imgur.com/ImUcjzC.gif) JiJi - written in C#, PHP and JavaScript:
 ---
 JiJi allows you to view and create music playlists with queues and timestamps to scrollable web content. Users can upload their playlists and share the codes with anyone.
-
-
 
 The client is built in C# under .NET 6.0 and WPF. 
 
@@ -15,7 +13,8 @@ For interfacing with the server I made a Web API that handles actions such as:
   - Uploading playlists
   - Fetching playlists
   - Favouriting playlists
-
+  
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/46323591/209410074-b00fc174-27ca-4af0-842e-f5e8b1149e29.gif)
 
 The purpose of the API is security and for smoother SQL interactions with the database.
 
@@ -68,7 +67,7 @@ Here is the output:
 ![example_output](https://user-images.githubusercontent.com/46323591/205365769-bd52895b-6c6e-4b38-887f-8a20d992bc91.PNG)
 
 ---
-![zodi](https://user-images.githubusercontent.com/46323591/209404340-a8e8d4b9-1f6f-4d66-aecd-890f6a87c85a.png) [zodart.com](https://zodart.com/) - written in PHP and SQL ( + HTML/CSS)
+![zodi](https://user-images.githubusercontent.com/46323591/209404340-a8e8d4b9-1f6f-4d66-aecd-890f6a87c85a.png) [zodart.com](https://zodart.com/) - written in PHP using SQL ( + HTML/CSS)
 ---
 
 A virtual gallery, people can submit art and everyday automatically, 3 will be chosen and displayed.
