@@ -2,6 +2,11 @@
 
 A collection of my projects!
 
+[Game developement projects](#game-development-projects)
+[Software projects](#software-projects)
+
+
+#Software projects
 ---
 ![example_output](https://i.imgur.com/ImUcjzC.gif) JiJi - written in C#, PHP and JavaScript:
 ---
@@ -77,3 +82,15 @@ A virtual gallery, people can submit art and everyday automatically, 3 will be c
 [GitHub for zodart](https://github.com/crimzoda/zodart)
 
 ![example_output](https://user-images.githubusercontent.com/46323591/204822159-607e6a76-804a-4e5e-a233-3ae68e06485d.png)
+
+---
+
+#Game development projects:
+---
+
+Purgatory - written in Godot
+---
+
+![LMwKKnK](https://github.com/crimzoda/portfolio/assets/46323591/f4c4bb1a-18ac-410e-a3ce-82d13cd7f30c)
+
+Purgatory is a roguelike, 2.5d, procedural dungeon crawler. Taking place in my own interpretation of a limbo between heaven and hell. You will meet various characters and entities of varying backgrounds. Murderers, great Doctors, exiled angels. Survive or face eternal damnation to hell
