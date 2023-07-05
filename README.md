@@ -2,7 +2,9 @@
 
 A collection of my projects!
 
+Table of contents:
 [Game developement projects](#game-development-projects)
+
 [Software projects](#software-projects)
 
 
