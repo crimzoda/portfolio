@@ -6,7 +6,7 @@ A collection of my projects!
 [Software projects](#software-projects)
 
 
-#Software projects
+# Software projects
 ---
 ![example_output](https://i.imgur.com/ImUcjzC.gif) JiJi - written in C#, PHP and JavaScript:
 ---
@@ -85,7 +85,7 @@ A virtual gallery, people can submit art and everyday automatically, 3 will be c
 
 ---
 
-#Game development projects:
+# Game development projects:
 ---
 
 Purgatory - written in Godot
