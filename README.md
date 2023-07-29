@@ -15,7 +15,7 @@ Table of contents:
 ---
 JiJi allows you to view and create music playlists with queues and timestamps to scrollable web content. Users can upload their playlists and share the codes with anyone.
 
-[Download]([https://zodart.com/jiji/])
+[Download](https://zodart.com/jiji/)
 
 The client is built in C# under .NET 6.0 and WPF. 
 
