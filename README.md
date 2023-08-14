@@ -11,7 +11,7 @@ Table of contents:
 
 # Software projects
 ---
-![example_output](https://basedboard.net/favicon.png) [basedboard.net](https://basedboard.net/) - written in JavaScript, HTML/CSS using Node.js & Firebase for server side functions:
+![example_output](https://basedboard.net/favicon.png) [basedboard.net](https://basedboard.net/) - written in JavaScript, HTML/CSS using Node.js & Firebase for server-side functions:
 ---
 A real-time live canvas in which people can submit and place 'tiles' (windows of media, text, links etc.), similar to r/place, except with media instead of pixels.
 
