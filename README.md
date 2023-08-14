@@ -11,6 +11,16 @@ Table of contents:
 
 # Software projects
 ---
+![example_output](https://basedboard.net/favicon.png) [basedboard.net](https://basedboard.net/) - written in JavaScript, HTML/CSS using Node.js & Firebase for server side functions:
+---
+A real-time live canvas in which people can submit and place 'tiles' (windows of media, text, links etc.), similar to r/place, except with media instead of pixels.
+
+![Screenshot 2023-08-14 020754](https://github.com/crimzoda/portfolio/assets/46323591/4d471720-7e80-42bf-bc35-f066b4f421ba)
+
+This is one of the projects I learnt the most from. I learned about client-side and server-side security, ranging from creating my own method to process media server-side, in order to increase security and working with the Firebase realtime databases from both the client and server-side of the project.
+
+---
+
 ![example_output](https://i.imgur.com/ImUcjzC.gif) JiJi - written in C#, PHP and JavaScript:
 ---
 JiJi allows you to view and create music playlists with queues and timestamps to scrollable web content. Users can upload their playlists and share the codes with anyone.
